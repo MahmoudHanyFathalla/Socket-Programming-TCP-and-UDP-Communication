@@ -12,12 +12,12 @@ The project is organized into two main directories, each containing the client a
 
 ```
 sockets/
-│   ├── tcp/
-│   │   ├── clint.py
-│   │   └── server.py
-│   └── udp/
-│       ├── clint.py
-│       └── server.py
+   ├── tcp/
+   │   ├── clint.py
+   │   └── server.py
+   └── udp/
+       ├── clint.py
+       └── server.py
 ```
 
 ### TCP Implementation
